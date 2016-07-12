@@ -25,6 +25,8 @@ http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:mtgstream4.smil/
 #EXTINF:-1,[COLOR yellow] [B]Muzikas Kanali[/B][/COLOR]
 http://0.1.5.0:1224
 
+#EXTINF:0,VH1 SHUFFLE
+http://212.80.63.190:4022/udp/238.1.16.11:1234
 #EXTINF:0,1HD Music Television (Rus) (1080p)
 http://31.28.62.166:4022/udp/232.0.1.26:1234
 #EXTINF:0,1st Baltic Music (576p)
