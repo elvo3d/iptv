@@ -19,7 +19,8 @@ http://video.chaula.tv/hls/live/medium/playlist_medium.m3u8
 http://stream.ls.lv/swh_swh/smil:swh_swh.smil/chunklist_w1007479244_b2000000_t64SGlnaCBxdWFsaXR5.m3u8
 #EXTINF:0,LMT Straume (576p)
 http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:mtgstream4.smil/playlist.m3u8
-
+#EXTINF:0,Film
+http://live-823.gv2.edge.filmon.com/live/13.low.stream/playlist.m3u8
 
 #EXTINF:-1,[COLOR yellow] [B]Muzikas Kanali[/B][/COLOR]
 http://0.1.5.0:1224
