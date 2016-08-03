@@ -84,39 +84,39 @@ http://0.1.5.0:1224
 
 #EXTINF:0,CN
 http://eter.noip.me:8080/live/X4q9U0Emtt/www.moskvatv.com/139.m3u8
-#EXTINF:-1,Detskiy
+#EXTINF:0,Detskiy
 http://77.120.118.233:8000/1
-#EXTINF:-1,Nickelodeon
+#EXTINF:0,Nickelodeon
 http://77.120.118.233:8000/2
-#EXTINF:-1,DaVinchi
+#EXTINF:-0DaVinchi
 http://77.120.118.233:8000/3
-#EXTINF:-1,BabyTV
+#EXTINF:0,BabyTV
 http://77.120.118.233:8000/4
-#EXTINF:-1,Multimania
+#EXTINF:0,Multimania
 http://77.120.118.233:8000/5
-#EXTINF:-1,Boomerang
+#EXTINF:0,Boomerang
 http://77.120.118.233:8000/6
-#EXTINF:-1,JimJam
+#EXTINF:0,JimJam
 http://77.120.118.233:8000/7
-#EXTINF:-1,Nick Jr
+#EXTINF:0,Nick Jr
 http://77.120.118.233:8000/8
-#EXTINF:-1,Gulli
+#EXTINF:0,Gulli
 http://77.120.118.233:8000/9
-#EXTINF:-1,TiJi
+#EXTINF:0,TiJi
 http://77.120.118.233:8000/10
-#EXTINF:-1,Detskiy
+#EXTINF:0,Detskiy
 http://77.120.118.233:8000/11
-#EXTINF:-1,Nickelodeon
+#EXTINF:0,Nickelodeon
 http://77.120.118.233:8000/12
-#EXTINF:-1,Boomerang
+#EXTINF:0,Boomerang
 http://77.120.118.233:8000/16
-#EXTINF:-1,JimJam
+#EXTINF:0,JimJam
 http://77.120.118.233:8000/17
-#EXTINF:-1,Nick Jr
+#EXTINF:0,Nick Jr
 http://77.120.118.233:8000/18
-#EXTINF:-1,Gulli
+#EXTINF:0,Gulli
 http://77.120.118.233:8000/19
-#EXTINF:-1,TiJi
+#EXTINF:0,TiJi
 http://77.120.118.233:8000/20
 
 
