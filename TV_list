@@ -1,18 +1,18 @@
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR yellow] [B] Latvijas kanali [/B][/COLOR]
+
 http://0.1.5.0:1224
 
 
 #EXTINF:0, tvg-id="LTV1" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/latvia1.png" tvg-name="LTV1" group-title="Latvijas kanāli",LTV1
-http://streamltv.cloudy.services/ltv/_definst_/LTV02.smil/chunklist_b1197800.m3u8
+http://dvb.gpsystems.lv:4242/bynumber/1?by_HasBahCa
 #EXTINF:0, tvg-id="TV3" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/viasat_tv3_lv.png" tvg-name="TV3 Latvia (576p)" group-title="Latvijas kanāli",TV3 Latvia (576p)
 http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/mtgstream2_medium.stream/chunklist.m3u8
 #EXTINF:0, tvg-id="TV6" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/viasat_tv6_lv.png" tvg-name="TV6 Latvia (576p)" group-title="Latvijas kanāli",TV6 Latvia (576p)
 http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/mtgstream4_medium.stream/playlist.m3u8
 #EXTINF:0, tvg-id="LTV7" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/latvia7.png" tvg-name="LTV7" group-title="Latvijas kanāli",LTV7 Latvia (360p)
-http://streamltv.cloudy.services/ltv/_definst_/LTV01.smil/chunklist_b1197800.m3u8
+http://dvb.gpsystems.lv:4242/bynumber/3?by_HasBahCa
 #EXTINF:0, tvg-id="LNT" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/lnt_lv.png" tvg-name="LNT (576p)" group-title="Latvijas kanāli",LNT (576p)
 http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/mtgstream1_high.stream/chunklist.m3u8
 #EXTINF:0, tvg-id="Chaula_TV" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/chaula.png" tvg-name="Chaula TV (480p)" group-title="Latvijas kanāli",Chaula TV (480p)
@@ -23,119 +23,4 @@ http://stream.ls.lv/swh_swh/smil:swh_swh.smil/chunklist_w1007479244_b2000000_t64
 http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:mtgstream4.smil/playlist.m3u8
 
 
-#EXTINF:-1,[COLOR yellow] [B]Muzikas Kanali[/B][/COLOR]
-http://0.1.5.0:1224
 
-
-#EXTINF:0, tvg-id="Pirmais Baltijas mūzikas kanāls" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/perviy_baltiysky_kanal_ru.png" tvg-name="Pirmais Baltijas mūzikas kanāls (576p)" group-title="Mūzikas kanāli",Pirmais Baltijas mūzikas kanāls (576p)
-https://streamer1.tvdom.tv/down.php?watch=/stream/PBMK.stream_720p/index.m3u8?DOMTOKEN=J/m1gLnoBzIYktcBOSI7NTnJJaUZfAl6ss7irqGEm60KNeceHD+vhJnO5WV0DUrHBgYPWwaJZBln69UrOGmhOFOSiucsBBb+9l6Cny94ifXqdIbInUxkHLrYeeXkB0l6fBpOBu/zoWvVyjHFJ17M9rWdAMvgTjBpteMKFMU02C7xe3jwT09Dx1TWMDM3R8h6b5e8yz19XOHltf9orTSivHI4UOt5d6EyQXOybN7SjOGmiLQeG2nSG81TicPzuMAK
-#EXTINF:0, tvg-id="MTV Europe" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/mtv_us.png" tvg-name="MTV Rus (578p)" group-title="Mūzikas kanāli",MTV Rus (578p)
-http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/142/index.m3u8
-#EXTINF:0,tvg-id="MTV Live HD" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/mtv_live_hd_us.png" tvg-name="MTV Live HD (1080p)" group-title="Mūzikas kanāli",MTV Live HD (1080p)
-http://62.106.105.209:4022/udp/232.0.2.51:1234
-#EXTINF:0, tvg-id="MTV Dance" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/mtv_dance_us.png" tvg-name="MTV Dance (576p)" group-title="Mūzikas kanāli",MTV Dance (576p)
-http://fr.cdn.edem.tv/iptv/4MGFKP9WS85VM3/558/index.m3u8
-#EXTINF:0, tvg-id="MTV Hits" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/mtv_hits_ce.png" tvg-name="MTV Hits (576p)" group-title="Mūzikas kanāli",MTV Hits (576p)
-http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/153/index.m3u8
-#EXTINF:0, tvg-id="Muz TV Baltija" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/muztv.png" tvg-name="Muz TV (576p)" group-title="Mūzikas kanāli",Muz TV (576p)
-http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/116/index.m3u8
-#EXTINF:0, tvg-id="VevoTV1" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/vevo.png" tvg-name="Vevo 1 (720p)" group-title="Mūzikas kanāli",Vevo 1 (720p)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
-#EXTINF:0, tvg-id="VevoTV2" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/vevo.png" tvg-name="Vevo 2 (720p)" group-title="Mūzikas kanāli",Vevo 2 (720p)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
-#EXTINF:0, tvg-id="VevoTV3" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/vevo.png" tvg-name="Vevo 3 (720p)" group-title="Mūzikas kanāli",Vevo 3 (720p)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
-#EXTINF:0, tvg-id="SLAM" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/Slam!TV.png" tvg-name="SLAM! (720p)" group-title="Mūzikas kanāli",SLAM! (720p)
-http://hls2.slamfm.nl/content/slamtv/slamtv_0.m3u8
-#EXTINF:0, tvg-id="JUGOTON" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/Jugoton-tv.png" tvg-name="JUGOTON TV (432p)" group-title="Mūzikas kanāli",JUGOTON TV (432p)
-http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
-#EXTINF:-1, tvg-id="HEART_TV" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/Heart_TV.png" tvg-name="HEART TV (450p)" group-title="Mūzikas kanāli",HEART TV (450p)
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0, tvg-id="Kiss_TV" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/kisstv.png" tvg-name="Kiss Tv Music (380p)" group-title="Mūzikas kanāli",Kiss Tv Music (380p)
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1, tvg-id="NRJ_TV" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/NRJ_HD.png" tvg-name="NRJ TV (1080p)" group-title="Mūzikas kanāli",NRJ TV (1080p)
-rtmp://rtmp.infomaniak.ch:1935/livecast/energytv
-#EXTINF:-1, tvg-id="NRJ_Hits" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/nrj-hits.png" tvg-name="NRJ Hits Belgique (360p)" group-title="Mūzikas kanāli",NRJ Hits Belgique (360p)
-rtsp://5.196.138.6:1935/live/nrjbelgique_360p
-#EXTINF:-1, tvg-id="M20" tvg-logo=""https://raw.githubusercontent.com/archiijs/iptv/master/icons/m2otv.jpg tvg-name="M20 (360p)" group-title="Mūzikas kanāli",M20 (360p)
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:0, tvg-id="Music_Channel_Hung" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/MusicCH.jpg" tvg-name="Music Channel Hungary (720p)" group-title="Mūzikas kanāli",Music Channel Hungary (720p)
-http://stream.1music.hu/stream/1music.m3u8
-#EXTINF:-1, tvg-id="DANCE_HD" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/dancetv.png" tvg-name="DANCE HD (720p)" group-title="Mūzikas kanāli",DANCE HD (720p)
-rtmp://91.201.78.3:1935/live/dancehd
-#EXTINF:-1, tvg-id="POP_HD" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/Poptv.png" tvg-name="POP HD (720p)" group-title="Mūzikas kanāli",POP HD (720p)
-rtmp://91.201.78.3:1935/live/pophd
-#EXTINF:0, tvg-id="Capital_TV" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/Capitaltv.png" tvg-name="Capital TV (432p)" group-title="Mūzikas kanāli",Capital TV (432p)
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
-#EXTINF:0, tvg-id="POLO_TV" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/polotv.png" tvg-name="POLO TV Music (360p)" group-title="Mūzikas kanāli",POLO TV Music (360p)
-rtmp://stream.smcloud.net/live/polotv
-#EXTINF:0, tvg-id="NR1" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/nr1tv.png" tvg-name="NR1 (270p)" group-title="Mūzikas kanāli",NR1 (270p)
-rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp
-#EXTINF:-1, tvg-id="MIAMI_TV" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/miamitv.png" tvg-name="MIAMI TV (720p)" group-title="Mūzikas kanāli",MIAMI TV (720p)
-mmsh://74.208.69.207:1755/music44?MSWMExt=.asf
-#EXTINF:-1, tvg-id="Music Box" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/MusicBoxtv.png" tvg-name="Music Box (360p)" group-title="Mūzikas kanāli",Music Box (360p)
-http://212.26.132.86/hls/mb_ua.m3u8
-#EXTINF:0, tvg-id="ONE BY HD" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/ONEbytv.png" tvg-name="ONE BY HD (1080p)" group-title="Mūzikas kanāli",ONE BY HD (1080p)
-http://rtmp.one.by:1300
-#EXTINF:0, tvg-id="ONE BY 2HD" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/ONEbytv.png" tvg-name="ONE BY 2HD (1080p)" group-title="Mūzikas kanāli",ONE BY 2HD (1080p)
-http://rtmp.one.by:2300
-#EXTINF:0, tvg-id="Djing Ibiza HD" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/djingtv.png" tvg-name="Djing Ibiza HD (720p)" group-title="Mūzikas kanāli",Djing Ibiza HD (720p)
-http://www.djing.com/tv/d-05.m3u8
-#EXTINF:0, tvg-id="Djing Underground HD" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/djingtv.png" tvg-name="Djing Underground HD (720p)" group-title="Mūzikas kanāli",Djing Underground HD (720p)
-http://www.djing.com/tv/u-05.m3u8
-#EXTINF:0, tvg-id="Djing Classic HD" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/djingtv.png" tvg-name="Djing Classic HD (720p)" group-title="Mūzikas kanāli",Djing Classic HD (720p)
-http://www.djing.com/tv/i-05.m3u8
-#EXTINF:-1, tvg-id="Virgin TV" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/Virgintv.png" tvg-name="Virgin TV (272p)" group-title="Mūzikas kanāli",Virgin TV (272p)
-rtmp://fms.105.net:1935/live/virgin2
-#EXTINF:0, tvg-id="ELECTROSOUND TV" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/electrosountdt.jpg" tvg-name="ELECTROSOUND TV (720p)" group-title="Mūzikas kanāli",ELECTROSOUND TV (720p)
-http://www.electrosound.tv:1935/public/stream/chunklist.m3u8
-#EXTINF:-1, tvg-id="RTL 102.5 TV" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/Rtltv.png" tvg-name="RTL 102.5 TV (360p)" group-title="Mūzikas kanāli",RTL 102.5 TV (360p)
-http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8
-#EXTINF:-1, tvg-id="Dot Dance" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/dotdance.png" tvg-name="Dot Dance (720p)" group-title="Mūzikas kanāli",Dot Dance (720p)
-http://live.dotdance.cdnvideo.ru/dotdance/dotdance.sdp/playlist.m3u8
-#EXTINF:-1, tvg-id="For Music" tvg-logo="" tvg-name="For Music (480p)" group-title="Mūzikas kanāli",For Music (480p)
-http://wowza1.top-ix.org/quartaretetv1/formusicweb/index.m3u8
-#EXTINF:-1, tvg-id="Mad TV" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/madtv.png" tvg-name="Mad TV (480p)" group-title="Mūzikas kanāli",Mad TV (480p)
-rtmp://144.76.2.213:1935/live/livestream
-#EXTINF:-1, tvg-id="1st Classic" tvg-logo="" tvg-name="1st Classic (578p)" group-title="Mūzikas kanāli",1st Classic (578p)
-http://151.249.207.217:4022/udp/224.200.246.47:3527
-#EXTINF:-1, tvg-id="МУЗ" tvg-logo="https://raw.githubusercontent.com/archiijs/iptv/master/icons/muztv.png" tvg-name="МУЗ (720p)" group-title="Mūzikas kanāli",МУЗ (720p)
-http://super.iptvbot.biz/iptv/23UVE8AS6NRX9G/116/inde..
-
-tvg-id="" tvg-logo="" tvg-name="" group-title="",
-
-#EXTINF:-1,[COLOR yellow] [B]Zinas[/B][/COLOR]
-http://0.1.5.0:1224
-
-#EXTINF:0,EURONEWS (240p)
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
-#EXTINF:-1,ABC News (360p)
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-
-
-
-#EXTINF:-1,[COLOR yellow] [B]Citi kanali[/B][/COLOR]
-http://0.1.5.0:1224
-
-#EXTINF:0,Nasa TV (720p)
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-#EXTINF:0,Russia Today Documentary (360p)
-http://rt.ashttp6.visionip.tv/live/RT_Doc-SD/playlist.m3u8
-#EXTINF:0, Animal Planet (480p)
-http://80.80.160.168/live/1/live.m3u8
-#EXTINF:0,Travel Ch. (480p)
-http://80.80.160.168/live/3/live.m3u8
-#EXTINF:0,SHO HD (720p)
-http://80.80.160.168/live/7/live.m3u8
-#EXTINF:0,Discovery ID. (480p)
-http://80.80.160.168/live/5/live.m3u8
-#EXTINF:0,Discovery Rus (576p)
-http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/140/index.m3u8
-
-
-#EXTINF:-1,[COLOR red] [B]Adult[/B][/COLOR]
-http://0.1.5.0:1224
-
-
-#EXTINF:0,Русская ночь
-http://37.195.247.86:81/udp/239.1.6.32:1234
