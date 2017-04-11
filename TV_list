@@ -72,3 +72,17 @@ http://80.25.87.6:9981/stream/channelid/1237001161
 http://80.25.87.6:9981/stream/channelid/1500252112
 #EXTINF:-1,Sky News
 http://80.25.87.6:9981/stream/channelid/1867717695
+#EXTINF:0,Disney XD
+http://178.196.220.26:9981/play/a009
+#EXTINF:0,Discovery Channel
+http://178.196.220.26:9981/play/a01k
+#EXTINF:0,Sky Cinema Family
+http://178.196.220.26:9981/play/a01u
+#EXTINF:0,RTL Crime
+http://178.196.220.26:9981/play/a01o
+#EXTINF:0,Sky Sport Austria
+http://178.196.220.26:9981/play/a00t
+#EXTINF:0,Sky Atlantic HD
+http://178.196.220.26:9981/play/a01b
+#EXTINF:0,Disney Cinemagic
+http://178.196.220.26:9981/play/a00s
